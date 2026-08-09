@@ -115,3 +115,4 @@ docker compose -f infra/docker-compose.local.yml up -d
 - [`docs/domain-glossary.md`](docs/domain-glossary.md)
 - [`docs/onboarding.md`](docs/onboarding.md)
 - [`docs/incident-response.md`](docs/incident-response.md)
+- [`docs/supabase-sync.md`](docs/supabase-sync.md) — 이 저장소 문서가 사내 RAG로 자동 동기화되는 방식
